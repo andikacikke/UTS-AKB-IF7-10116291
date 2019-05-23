@@ -8,7 +8,8 @@ import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.View;
 
-/** Created on 5/20/2019 by Andika IF7
+/** Created on 5/20/2019 by Andika 10116291  IF7
+ *
  */
 
 public class MainActivity extends AppCompatActivity {

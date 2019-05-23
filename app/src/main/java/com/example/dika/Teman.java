@@ -1,5 +1,6 @@
 package com.example.dika;
-
+/** Created on 5/23/2019 by Andika 10116291  IF7 ERROER!!!!
+ */
 public class Teman {
         private String Nim;
         private String Nama;
